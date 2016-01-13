@@ -1,5 +1,6 @@
 # /bin/bash
 #retry.sh
+#author: Nicholas Peterson (longboolean)
 #description: will rerun a command that fails untill it runs successfully.
 #example: $ retry.sh 30s "livestreamer http://www.twitch.tv/handmade_hero best"
 
