@@ -1,7 +1,7 @@
 #! /bin/bash
 #joyMouse.sh
 #author: unknown (found it online)
-#description: View joystick and mouse events
+#description: Use joystick as a mouse
 
 #first you must install the following
 # sudo apt-get install xserver-xorg-input-joystick
