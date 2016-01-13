@@ -1,4 +1,4 @@
-# /bin/bash
+#! /bin/bash
 #retry.sh
 #author: Nicholas Peterson (longboolean)
 #description: will rerun a command that fails untill it runs successfully.
