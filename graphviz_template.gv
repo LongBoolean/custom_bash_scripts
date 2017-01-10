@@ -1,0 +1,7 @@
+digraph GraphvizTemplate{
+
+node [shape=box]; "Hello World";
+node [shape=oval]; 
+hello -> world
+
+}
